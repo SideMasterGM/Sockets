@@ -1,6 +1,9 @@
-/*Server UDP*/
-/*Author*/
+/*--------------- UDP Server -----------------*/
+/*----------------  Author -------------------*/
 /*Jerson Antonio Martinez Moreno (Side Master)*/
+
+/*Channel YouTube: https://www.youtube.com/channel/UCwk5llU9cIYbPRMAp0Z8jxg/ */
+/*Channel YouTube 2: https://www.youtube.com/sidemaster */
 
 #include <sys/types.h>
 #include <sys/socket.h>

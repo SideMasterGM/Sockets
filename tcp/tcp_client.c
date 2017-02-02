@@ -1,6 +1,9 @@
 /*TCP Cliente*/
 /*Author*/
-/*Jerson Antonio Martinez Moreno*/
+/*Jerson Antonio Martinez Moreno (Side Master)*/
+
+/*Channel YouTube: https://www.youtube.com/channel/UCwk5llU9cIYbPRMAp0Z8jxg/ */
+/*Channel YouTube 2: https://www.youtube.com/sidemaster */
 
 #include <stdio.h>
 #include <stdlib.h>
