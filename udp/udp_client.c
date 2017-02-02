@@ -1,7 +1,6 @@
 /*Cliente UDP*/
-/*Authors*/
-/*Erick Ivan Altamirano Montalvan*/
-/*Jerson Antonio Martinez Moreno*/
+/*Author*/
+/*Jerson Antonio Martinez Moreno (Side Master)*/
 
 #include <sys/types.h>
 #include <sys/socket.h>
