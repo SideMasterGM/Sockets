@@ -1,7 +1,7 @@
 /* TCP Servidor*/
-/*Authors*/
-/*Erick Ivan Altamirano Montalvan*/
+/*Author*/
 /*Jerson Antonio Martinez Moreno*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

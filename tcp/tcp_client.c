@@ -1,6 +1,5 @@
 /*TCP Cliente*/
-/*Authors*/
-/*Erick Ivan Altamirano Montalvan*/
+/*Author*/
 /*Jerson Antonio Martinez Moreno*/
 
 #include <stdio.h>
